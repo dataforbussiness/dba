@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data For Bussinesss on Data For Bussiness</title>
-    <link>https://dataforbussiness.github.io/dba/</link>
+    <link>https://example.com/</link>
     <description>Recent content in Data For Bussinesss on Data For Bussiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 20:20:55 -0400</lastBuildDate><atom:link href="https://dataforbussiness.github.io/dba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 20:20:55 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Become Data Scientist</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-4/</link>
+      <link>https://example.com/post/chapter-4/</link>
       <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-4/</guid>
+      <guid>https://example.com/post/chapter-4/</guid>
       <description>Introduction
 Data science is the study of data, it may be structured or unstructured. It involves understanding, extracting values, and visualizing the data. Various machine learning algorithms and statistical methods are used for this. It’s the hottest topic of the 21st century, and the goal of it is to predict information from existing data. Business intelligence (BI) is to make an analysis and report with data, it’s a subset of data science.</description>
     </item>
     
     <item>
       <title>How to Connect to SQL Server and Query Data</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-2/</link>
+      <link>https://example.com/post/chapter-2/</link>
       <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-2/</guid>
+      <guid>https://example.com/post/chapter-2/</guid>
       <description>ANSI SQL is the specification that describes the features of any SQL language that is used to query a database. Every database platform I&amp;rsquo;ve ever worked with usually implements a subset of the features of this specification as well as adds some features of their own and SQL Server is no different. The language used to query a SQL Server database is called T-SQL and the commands that make up the T-SQL language can be broken down into a few categories:</description>
     </item>
     
     <item>
       <title>Kanban - An Introduction</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-5/</link>
+      <link>https://example.com/post/chapter-5/</link>
       <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-5/</guid>
+      <guid>https://example.com/post/chapter-5/</guid>
       <description>Scrum addresses the software development where the requirements are frozen before the sprint starts, but what about the teams which work on dynamic requirements which can come at any time?
 For example in a team which works on technical tickets, these tickets may come at anytime and hence the sprint cannot be decided, estimation cannot be done and the velocity cannot be calculated.
 Kanban is the solution to all this. Started in Toyota, Japan this was introduced to increase the productivity of the factory.</description>
@@ -39,10 +39,10 @@ Kanban is the solution to all this. Started in Toyota, Japan this was introduced
     
     <item>
       <title>Principles Of Lean Thinking</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-6/</link>
+      <link>https://example.com/post/chapter-6/</link>
       <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-6/</guid>
+      <guid>https://example.com/post/chapter-6/</guid>
       <description>In my previous article, we learned what is Lean and 5S tools. In this article, we will learn the Principles of Lean Thinking.
 Yes, Lean Thinking has principles and they are: Eliminate Waste Amplify Learning Decide as late as possible Deliver as fast as possible Empower the team Build integrity in Optimize the Whole
  Let&amp;rsquo;s dig deeper.
@@ -52,10 +52,10 @@ Any activity that consumes resources but adds no value is called waste, in Japan
     
     <item>
       <title>SQL Server 101</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-1/</link>
+      <link>https://example.com/post/chapter-1/</link>
       <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-1/</guid>
+      <guid>https://example.com/post/chapter-1/</guid>
       <description>By: Ben Snaidero
 Overview
 Since its initial release in 1989, SQL Server has come a long way from its base functionality as an enterprise level database platform. While the core of SQL Server is still it&amp;rsquo;s database engine, it is now so much more than just a relational database platform. We now have Analysis Services for online analytical processing, Reporting Services for developing reports, Integration Services for developing and running ETL programs as well as many other tools and services that work with and/or support these core components.</description>
@@ -63,10 +63,10 @@ Since its initial release in 1989, SQL Server has come a long way from its base 
     
     <item>
       <title>What Is Data Science?</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-3/</link>
+      <link>https://example.com/post/chapter-3/</link>
       <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-3/</guid>
+      <guid>https://example.com/post/chapter-3/</guid>
       <description>By Subham Ray
 Introduction
 In this article, we will learn about: What is Data Science Top Programming Languages advised for practicing Data Science
@@ -76,10 +76,10 @@ Data Science is a field that enables users to get the best insights of data that
     
     <item>
       <title>Contact</title>
-      <link>https://dataforbussiness.github.io/dba/contact/</link>
+      <link>https://example.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/contact/</guid>
+      <guid>https://example.com/contact/</guid>
       <description>Follow me on these social media platforms.
 Platform| URL
 YouTube:| https://www.youtube.com/channel/UC_UBIhlTcRysn538I6oxvpQ Twitter:| https://twitter.com/lamtriet5</description>
