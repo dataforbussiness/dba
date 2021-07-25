@@ -1,76 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on My blog</title>
-    <link>https://dataforbussiness.github.io/dba/</link>
-    <description>Recent content in Ananke: a Hugo Theme on My blog</description>
+    <title>Data For Bussinesss on Data For Bussiness</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Data For Bussinesss on Data For Bussiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://dataforbussiness.github.io/dba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 20:20:55 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      <title>How To Become Data Scientist</title>
+      <link>https://example.com/post/chapter-4/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+      <guid>https://example.com/post/chapter-4/</guid>
+      <description>Introduction
+Data science is the study of data, it may be structured or unstructured. It involves understanding, extracting values, and visualizing the data. Various machine learning algorithms and statistical methods are used for this. It’s the hottest topic of the 21st century, and the goal of it is to predict information from existing data. Business intelligence (BI) is to make an analysis and report with data, it’s a subset of data science.</description>
     </item>
     
     <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <title>How to Connect to SQL Server and Query Data</title>
+      <link>https://example.com/post/chapter-2/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+      <guid>https://example.com/post/chapter-2/</guid>
+      <description>ANSI SQL is the specification that describes the features of any SQL language that is used to query a database. Every database platform I&amp;rsquo;ve ever worked with usually implements a subset of the features of this specification as well as adds some features of their own and SQL Server is no different. The language used to query a SQL Server database is called T-SQL and the commands that make up the T-SQL language can be broken down into a few categories:</description>
     </item>
     
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Kanban - An Introduction</title>
+      <link>https://example.com/post/chapter-5/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <guid>https://example.com/post/chapter-5/</guid>
+      <description>Scrum addresses the software development where the requirements are frozen before the sprint starts, but what about the teams which work on dynamic requirements which can come at any time?
+For example in a team which works on technical tickets, these tickets may come at anytime and hence the sprint cannot be decided, estimation cannot be done and the velocity cannot be calculated.
+Kanban is the solution to all this. Started in Toyota, Japan this was introduced to increase the productivity of the factory.</description>
     </item>
     
     <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <title>Principles Of Lean Thinking</title>
+      <link>https://example.com/post/chapter-6/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+      <guid>https://example.com/post/chapter-6/</guid>
+      <description>In my previous article, we learned what is Lean and 5S tools. In this article, we will learn the Principles of Lean Thinking.
+Yes, Lean Thinking has principles and they are: Eliminate Waste Amplify Learning Decide as late as possible Deliver as fast as possible Empower the team Build integrity in Optimize the Whole
+ Let&amp;rsquo;s dig deeper.
+Eliminate Waste
+Any activity that consumes resources but adds no value is called waste, in Japanese terms, it&amp;rsquo;s called MUDA; for example, partially done work, extra processes or defects.</description>
     </item>
     
     <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <title>SQL Server 101</title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>By: Ben Snaidero
+Overview
+Since its initial release in 1989, SQL Server has come a long way from its base functionality as an enterprise level database platform. While the core of SQL Server is still it&amp;rsquo;s database engine, it is now so much more than just a relational database platform. We now have Analysis Services for online analytical processing, Reporting Services for developing reports, Integration Services for developing and running ETL programs as well as many other tools and services that work with and/or support these core components.</description>
     </item>
     
     <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://dataforbussiness.github.io/dba/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>What Is Data Science?</title>
+      <link>https://example.com/post/chapter-3/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <guid>https://example.com/post/chapter-3/</guid>
+      <description>By Subham Ray
+Introduction
+In this article, we will learn about: What is Data Science Top Programming Languages advised for practicing Data Science
+What is Data Science?
+Data Science is a field that enables users to get the best insights of data that are being delivered to them which may be used to make any decision or to analyze performance or to predict some risk or any outcome based on certain criteria.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://dataforbussiness.github.io/dba/contact/</link>
+      <link>https://example.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
+      <guid>https://example.com/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform| URL
+YouTube:| https://www.youtube.com/channel/UC_UBIhlTcRysn538I6oxvpQ Twitter:| https://twitter.com/lamtriet5</description>
     </item>
     
   </channel>

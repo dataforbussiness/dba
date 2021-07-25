@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My blog</title>
-    <link>https://dataforbussiness.github.io/dba/tags/</link>
-    <description>Recent content in Tags on My blog</description>
+    <title>Tags on Data For Bussiness</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Data For Bussiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://dataforbussiness.github.io/dba/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 20:20:55 -0400</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>scene</title>
-      <link>https://dataforbussiness.github.io/dba/tags/scene/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Data Science</title>
+      <link>https://example.com/tags/data-science/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
       
-      <guid>https://dataforbussiness.github.io/dba/tags/scene/</guid>
+      <guid>https://example.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBA</title>
+      <link>https://example.com/tags/dba/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
+      
+      <guid>https://example.com/tags/dba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kanban</title>
+      <link>https://example.com/tags/kanban/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
+      
+      <guid>https://example.com/tags/kanban/</guid>
       <description></description>
     </item>
     

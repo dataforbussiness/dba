@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DBA on Data For Bussiness</title>
+    <link>https://example.com/tags/dba/</link>
+    <description>Recent content in DBA on Data For Bussiness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 20:20:55 -0400</lastBuildDate><atom:link href="https://example.com/tags/dba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Connect to SQL Server and Query Data</title>
+      <link>https://example.com/post/chapter-2/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-2/</guid>
+      <description>ANSI SQL is the specification that describes the features of any SQL language that is used to query a database. Every database platform I&amp;rsquo;ve ever worked with usually implements a subset of the features of this specification as well as adds some features of their own and SQL Server is no different. The language used to query a SQL Server database is called T-SQL and the commands that make up the T-SQL language can be broken down into a few categories:</description>
+    </item>
+    
+    <item>
+      <title>SQL Server 101</title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>By: Ben Snaidero
+Overview
+Since its initial release in 1989, SQL Server has come a long way from its base functionality as an enterprise level database platform. While the core of SQL Server is still it&amp;rsquo;s database engine, it is now so much more than just a relational database platform. We now have Analysis Services for online analytical processing, Reporting Services for developing reports, Integration Services for developing and running ETL programs as well as many other tools and services that work with and/or support these core components.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanban on Data For Bussiness</title>
+    <link>https://example.com/tags/kanban/</link>
+    <description>Recent content in Kanban on Data For Bussiness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 20:20:55 -0400</lastBuildDate><atom:link href="https://example.com/tags/kanban/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kanban - An Introduction</title>
+      <link>https://example.com/post/chapter-5/</link>
+      <pubDate>Mon, 22 Mar 2021 20:20:55 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-5/</guid>
+      <description>Scrum addresses the software development where the requirements are frozen before the sprint starts, but what about the teams which work on dynamic requirements which can come at any time?
+For example in a team which works on technical tickets, these tickets may come at anytime and hence the sprint cannot be decided, estimation cannot be done and the velocity cannot be calculated.
+Kanban is the solution to all this. Started in Toyota, Japan this was introduced to increase the productivity of the factory.</description>
+    </item>
+    
+  </channel>
+</rss>
