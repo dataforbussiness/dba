@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World! on Data For Bussiness</title>
+    <link>https://dataforbussiness.github.io/datafun/</link>
+    <description>Recent content in Hello World! on Data For Bussiness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 15:00:07 -0400</lastBuildDate><atom:link href="https://dataforbussiness.github.io/datafun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction To Databases</title>
+      <link>https://dataforbussiness.github.io/datafun/post/chapter-1/</link>
+      <pubDate>Sat, 24 Jul 2021 15:00:07 -0400</pubDate>
+      
+      <guid>https://dataforbussiness.github.io/datafun/post/chapter-1/</guid>
+      <description>Introduction
+A database, in the most general sense, is an organized collection of data. More specifically, a database is an electronic system that allows data to be easily accessed, manipulated and updated.
+What are Databases?
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. It supports the storage and manipulation of data.
+In other words, databases are used by an organization as a method of storing, managing and retrieving information.</description>
+    </item>
+    
+    <item>
+      <title>Introduction Of MongoDB</title>
+      <link>https://dataforbussiness.github.io/datafun/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://dataforbussiness.github.io/datafun/post/chapter-2/</guid>
+      <description>There are some key points of using Mongo DB. These are as follows,
+Documents In Mongo Db we are using Documents instead of Tables as we are working in SQL. And these Documents are structured in BSON which is most identical to the web language JSON.
+NoSQL It is NoSQL or Non-Relational database. The main difference when compared to SQL Database is you are not able to use joins to connect your database tables; however, we can use references to link between your various Documents</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dataforbussiness.github.io/datafun/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dataforbussiness.github.io/datafun/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/channel/UC_UBIhlTcRysn538I6oxvpQ/   Gmail: lamhoangtriet@gmail.com/   Twitter: https://twitter.com/lamtriet5/    </description>
+    </item>
+    
+  </channel>
+</rss>
