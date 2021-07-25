@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://dataforbussiness.github.io/dba/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/data-science/</loc>
+    <loc>https://dataforbussiness.github.io/dba/tags/data-science/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/dba/</loc>
+    <loc>https://dataforbussiness.github.io/dba/tags/dba/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-4/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/chapter-4/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-2/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/chapter-2/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/kanban/</loc>
+    <loc>https://dataforbussiness.github.io/dba/tags/kanban/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-5/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/chapter-5/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-6/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/chapter-6/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-1/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/chapter-1/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://dataforbussiness.github.io/dba/tags/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-3/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/chapter-3/</loc>
     <lastmod>2021-03-22T20:20:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://dataforbussiness.github.io/dba/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://dataforbussiness.github.io/dba/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://dataforbussiness.github.io/dba/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://dataforbussiness.github.io/dba/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
